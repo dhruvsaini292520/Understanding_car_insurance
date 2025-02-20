@@ -1,4 +1,4 @@
-# project_1_car_insurance
+# Project_1_Car_Insurance
 
 **Hypothesis** : 
 Understanding the factors that influence the monthly premium for car insurance. 
@@ -18,7 +18,7 @@ Jinseo, Rachel, Devi , Dhruv and Ardeshir.
 
 **Data Aquisition**:
 1) Kaggle.com (Auto_Insurance.csv)
-2) Crash viewer : https://crashviewer.nhtsa.dot.gov/
+2) Crash viewer : https://crashviewer.nhtsa.dot.gov/(US Gov API)
 
 **Data Cleaning**: 
 1) Reduced dataframe to include relevant columns required for analysis.
